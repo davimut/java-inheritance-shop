@@ -1,4 +1,4 @@
-package org.lessons.java.iheritanceShop;
+package org.lessons.java.inheritanceShop;
 
 
 public class Cuffie extends Prodotto {

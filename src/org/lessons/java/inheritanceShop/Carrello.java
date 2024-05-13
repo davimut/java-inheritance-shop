@@ -1,4 +1,4 @@
-package org.lessons.java.iheritanceShop;
+package org.lessons.java.inheritanceShop;
 
 //Create una classe Carrello con metodo main, in cui chiedete all’utente di valorizzare un carrello di prodotti con dati inseriti tramite scanner.
 //Durante la richiesta di valorizzazione chiedete all’utente se sta inserendo uno Smarphone o un Televisore o Cuffie e in base alla scelta dell’utente utilizzate il costruttore opportuno.
